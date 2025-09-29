@@ -2,11 +2,11 @@
 
 Welcome to the E-Commerce Sale Dashboard! This project provides an insightful visualization of the sales data, enabling users to analyze performance metrics and trends effectively.
 
-# 🔍 Introduction
+## 🔍 Introduction
 
 The dashboard is designed to give a comprehensive overview of e-commerce performance, focusing on key metrics that are essential for data-driven decision-making.
 
-# 📊 Key Metrics
+## 📊 Key Metrics
 
 Here’s a summary of the fundamental metrics displayed in the dashboard:
 
@@ -18,7 +18,7 @@ Total Quantity Sold: 5615
 
 Average Order Value (AOV): 121K
 
-# 🌟 Visualizations
+## 🌟 Visualizations
 
 The dashboard features various charts and filters, providing a dynamic exploration of the data:
 
@@ -28,7 +28,7 @@ Monthly Profit Trends: Observe trends in profits on a monthly basis for thoughtf
 Payment Mode Distribution: Get insights into preferred payment methods used by customers.
 
 
-# 📄 Overall Summary
+## 📄 Overall Summary
 
 This dashboard offers a holistic view of e-commerce sales performance, equipped with the capability for detailed analysis and exploration. It empowers users to gain actionable insights that drive business success.
 
