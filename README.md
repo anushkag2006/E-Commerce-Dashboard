@@ -9,14 +9,10 @@ The dashboard is designed to give a comprehensive overview of e-commerce perform
 ## 📊 Key Metrics
 
 Here’s a summary of the fundamental metrics displayed in the dashboard:
-
-Total Sales Amount: 438K
-
-Total Profit: 37K
-
-Total Quantity Sold: 5615
-
-Average Order Value (AOV): 121K
+<br>Total Sales Amount: 438K
+<br>Total Profit: 37K
+<br>Total Quantity Sold: 5615
+<br>Average Order Value (AOV): 121K
 
 ## 🌟 Visualizations
 
