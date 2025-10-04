@@ -28,5 +28,6 @@ Payment Mode Distribution: Get insights into preferred payment methods used by c
 
 This dashboard offers a holistic view of e-commerce sales performance, equipped with the capability for detailed analysis and exploration. It empowers users to gain actionable insights that drive business success.
 
-<img width="1327" height="745" alt="image" src="https://github.com/user-attachments/assets/3ab7d2ea-e1f0-49dc-9ba2-021b5bad573c" />
+<img width="1317" height="738" alt="image" src="https://github.com/user-attachments/assets/b727011b-b20d-4b61-a9aa-a9994602a251" />
+
 
